@@ -1,7 +1,7 @@
 {
   "name": "collaborate",
   "main": "./lib/inkdrop-collaborate",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A collaborate plugin for inkdrop",
   "keywords": [],
   "repository": "https://github.com/fkunn1326/inkdrop-collaborate",
