@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle Collaborate",
+        "command": "inkdrop-collaborate:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "inkdrop-collaborate",
+          "submenu": [
+            {
+              "label": "Toggle Collaborate",
+              "command": "inkdrop-collaborate:toggle-collaborate"
+            },
+            {
+              "label": "Toggle Modal",
+              "command": "inkdrop-collaborate:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

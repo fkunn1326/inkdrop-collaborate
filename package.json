@@ -1,0 +1,17 @@
+{
+  "name": "inkdrop-collaborate",
+  "main": "./lib/inkdrop-collaborate",
+  "version": "0.0.0",
+  "description": "A collaborate plugin for inkdrop",
+  "keywords": [],
+  "repository": "https://github.com/fkunn1326/inkdrop-collaborate",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.x"
+  },
+  "dependencies": {
+    "y-codemirror": "^3.0.1",
+    "y-websocket": "^1.5.0",
+    "yjs": "^13.6.1"
+  }
+}
