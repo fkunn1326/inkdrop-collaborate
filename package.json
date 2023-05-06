@@ -1,5 +1,5 @@
 {
-  "name": "inkdrop-collaborate",
+  "name": "collaborate",
   "main": "./lib/inkdrop-collaborate",
   "version": "0.0.0",
   "description": "A collaborate plugin for inkdrop",
