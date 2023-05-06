@@ -13,12 +13,12 @@ ipm install collaborate
 1. Everyone who collaborates installs this plugin.
 2. The note owner initiate the shareing and copy invite link.
 
-![](.\assets\sidedrawer.png)
-![](.\assets\modal.png)
+![](assets/sidedrawer.png)
+![](assets/modal.png)
 
 3. Open the invite link in your browser and start editing.
 
-![](.\assets\preview.png)
+![](assets/preview.png)
 
 > **Warning**
 > Note that anyone with the shared link can edit
